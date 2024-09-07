@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
   <p align="right" style="font-family:Orbitron;">PROFILE VISITS</p>
   <img align="right" src="https://profile-counter.glitch.me/viswanath025/count.svg">
 
