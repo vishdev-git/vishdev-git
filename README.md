@@ -1,3 +1,4 @@
+<!--<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adi-dev-x/adi-dev-x/output/github-contribution-grid-snake-dark.svg" width="100%">-->
 
 <div align="left">
   <p align="right" style="font-family:Orbitron;">PROFILE VISITS</p>
@@ -17,6 +18,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswanath025/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vishdev-git)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23F9D5B1.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/illuminatia07/)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,6 +36,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Microservices](https://img.shields.io/badge/microservices-%2300ADD8.svg?style=for-the-badge&logo=microservices&logoColor=white)
+
+
 
 # 📂 Projects:
 ## Vbook4U
@@ -49,3 +54,8 @@ A premium booking website where property owners can add their properties for ren
 - **Payment Integration**: Secure payment gateway for processing transactions.
 - **Admin Dashboard**: Admins can manage bookings, users, and property owners.
 
+# 📊 GitHub Stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishdev-git&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=00000000&text_color=333333&icon_color=ffbb00&border_radius=10)](https://github.com/vishdev-git)
+
+# 🔥 LeetCode Stats:
+[![LeetCode Stats](https://leetcard.jacoblin.cool/u/illuminatia07?theme=dark&font=Raleway&ext=activity)](https://leetcode.com/u/illuminatia07/)
