@@ -2,7 +2,7 @@
   <p style="font-family: Orbitron;">PROFILE VISITS</p>
   <img src="https://profile-counter.glitch.me/viswanath025/count.svg" alt="Profile Visits" />
 </div>
-
+<br>
 <div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi!+I+am+Viswanath+R;MERN+Stack+Developer;JavaScript+NodeJS+React;Learning+and+Building" alt="Typing SVG" />
