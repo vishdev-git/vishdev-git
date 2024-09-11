@@ -10,7 +10,7 @@
 </div>
 
 <br>
-# 💫 About Me:
+## 💫 About Me:
 🌱 I’m currently learning MERN stack development
 
 📫 Reach me at: [viswa20.2001@gmail.com](mailto:viswa20.2001@gmail.com)
