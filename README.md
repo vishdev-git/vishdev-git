@@ -1,5 +1,3 @@
-
-
 <div align="left">
   <p align="right" style="font-family:Orbitron;">PROFILE VISITS</p>
   <img align="right" src="https://profile-counter.glitch.me/viswanath025/count.svg">
@@ -10,6 +8,7 @@
 </div>
 
 <br>
+
 💫 About Me:
 🌱 I’m currently learning MERN stack development
 
@@ -37,8 +36,6 @@
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Microservices](https://img.shields.io/badge/microservices-%2300ADD8.svg?style=for-the-badge&logo=microservices&logoColor=white)
-
-
 
 # 📂 Projects:
 ## Vbook4U
