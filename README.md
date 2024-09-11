@@ -1,4 +1,4 @@
-<!--<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adi-dev-x/adi-dev-x/output/github-contribution-grid-snake-dark.svg" width="100%">-->
+
 
 <div align="left">
   <p align="right" style="font-family:Orbitron;">PROFILE VISITS</p>
@@ -10,7 +10,7 @@
 </div>
 
 <br>
-# 💫 About Me:
+💫 About Me:
 🌱 I’m currently learning MERN stack development
 
 📫 Reach me at: [viswa20.2001@gmail.com](mailto:viswa20.2001@gmail.com)
