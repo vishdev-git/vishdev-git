@@ -12,7 +12,7 @@
 </div>
 
 ## 💫 About Me
-I'm a learning MERN stack dev
+I'm a MERN stack dev who is interedted in building highly responsive user interactive website using MERN technologies.
 📫 Reach me at: [viswa20.2001@gmail.com](mailto:viswa20.2001@gmail.com)
 
 ## 🌐 Socials
