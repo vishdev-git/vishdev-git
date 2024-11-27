@@ -49,11 +49,12 @@ A property rental platform supporting user, property owner, and admin functional
 
 **Key Features:**
 - Secure payment processing with Razorpay
-- AWS image storage
-- Passport.js authentication
+- Multer image storage
+- Build frontend using Bootstrap and CSS3 
+- Express-session authentication
 - Chart.js revenue reporting
 
-**Technologies:** EJS, Node.js, Express, MongoDB, Razorpay, AWS
+**Technologies:** EJS, Node.js, Express, MongoDB, Razorpay, Azure
 
 [View Project](https://github.com/your-username/vbook4u)
 
