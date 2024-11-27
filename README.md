@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 I'm a MERN stack dev who is interedted in building highly responsive user interactive website using MERN technologies.
-📫 Reach me at: [viswa20.2001@gmail.com](mailto:viswa20.2001@gmail.com)
+<br>📫 Reach me at: [viswa20.2001@gmail.com](mailto:viswa20.2001@gmail.com)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswanath025/)
