@@ -56,7 +56,7 @@ A property rental platform supporting user, property owner, and admin functional
 
 **Technologies:** EJS, Node.js, Express, MongoDB, Razorpay, Azure
 
-[View Project](https://github.com/your-username/vbook4u)
+[View Project](https://github.com/vishdev-git/vbook4u)
 
 ## 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishdev-git&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=00000000&text_color=333333&icon_color=ffbb00&border_radius=10)](https://github.com/vishdev-git)
